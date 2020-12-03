@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "username": "Daniel",
+            "email": "daniel@mail.dk"
+        },
+        {
+            "username": "Jacob",
+            "email": "jacob@mail.dk"
+        },
+        {
+            "username": "Michael",
+            "email": "michael@mail.dk"
+        },
+        {
+            "username": "Nikolaj",
+            "email": "nikolaj@mail.dk"
+        }
+    ]
+
+}
